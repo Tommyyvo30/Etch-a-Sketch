@@ -1,0 +1,45 @@
+
+
+#container{
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 640px;
+    height: 640px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+.button{
+    margin: 0px 0px 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: linear-gradient(to right top, #f9f9f9, #ebebf7, #dadef6, #c4d3f5, #abc8f4);}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 6em;
+}
+
+footer{
+    margin: 50px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
