@@ -47,7 +47,7 @@ function rainbowMode() {
 
 function clearBoard() {
   container.innerHTML = "";
-  createGrid();
+  //createGrid();
 }
 
 function startSketch() {
